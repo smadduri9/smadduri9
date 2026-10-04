@@ -1,4 +1,10 @@
-## Hi there 👋
+## Heyy!
+
+I'm currently in California, soaking up the sun 😎
+
+I ❤ it here.
+
+I have been diving deep into AI Agents / Agentic Systems.
 
 <!--
 **smadduri9/smadduri9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
