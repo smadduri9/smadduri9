@@ -4,7 +4,7 @@ I'm currently in California, soaking up the sun 😎
 
 I ❤ it here.
 
-I have been diving deep into AI Agents / Agentic Systems and not trying to push AI slop on my profile. 
+I have been diving deep into building smart/real AI Agents / Agentic Systems and not trying to push AI slop on my profile. 
 
 Currently looking for oppurtunities to work. If you need any help with software engineering, I am your guy. 
 
