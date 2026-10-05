@@ -2,11 +2,9 @@
 
 I'm currently in California, soaking up the sun 😎
 
-I ❤ it here.
+I have been diving deep into building smart AI Agents / Agentic Systems and not push AI slop. 
 
-I have been diving deep into building smart/real AI Agents / Agentic Systems and not trying to push AI slop on my profile. 
-
-Currently looking for oppurtunities to work. If you need any help with software engineering, I am your guy. 
+Currently looking for oppurtunities to work.
 
 <!--
 **smadduri9/smadduri9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
